@@ -6,9 +6,11 @@ Este repositorio contiene el desarrollo de un sistema basado en microservicios p
 
 
 🧑‍💻 Integrantes del Equipo
-Nombre	              Rol en el proyecto	     Servicio principal trabajado
-Felipe  Sandoval	    Backend	                 Por revisar
-Diego   Gutierrez	    Backend	                 Por revisar
+| Nombre          | Rol en el proyecto | Servicio principal trabajado |
+| --------------- | ------------------ | ---------------------------- |
+| Felipe Sandoval | Backend            | Por revisar                  |
+| Diego Gutierrez | Backend            | Por revisar                  |
+
 
 
 
@@ -20,14 +22,23 @@ Diego   Gutierrez	    Backend	                 Por revisar
 
 Microservicios que hicimos
 ________service: > 📝
+
 ________service: > 📝
+
 ________service: > 📝
+
 ________service: > 📝
+
 ________service: > 📝
+
 ________service: > 📝
+
 ________service: > 📝
+
 ________service: > 📝
+
 ________service: > 📝
+
 
 
 
